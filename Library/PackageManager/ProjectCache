@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638877160764016009
-    m_Hash: 908026552
+      ticks: 638895419000625448
+    m_Hash: 2879895559
   m_LockFileStatus:
     m_FilePath: C:/Users/vantan/Documents/unity/Survivor/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638877161496102698
-    m_Hash: 1056669123
+      ticks: 638895419000660856
+    m_Hash: 1121960292
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,56 @@ m_LocalPackages:
 m_ProjectPath: C:/Users/vantan/Documents/unity/Survivor/Packages
 m_EditorVersion: 2021.3.34f1 (25266724e7bd)
 m_ResolvedPackages:
+- packageId: com.cysharp.unitask@https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+  testable: 0
+  isDirectDependency: 1
+  version: 2.5.10
+  source: 5
+  resolvedPath: C:\Users\vantan\Documents\unity\Survivor\Library\PackageCache\com.cysharp.unitask@f213ff497e
+  assetPath: Packages/com.cysharp.unitask
+  name: com.cysharp.unitask
+  displayName: UniTask
+  author:
+    name: Cysharp, Inc.
+    email: 
+    url: https://cysharp.co.jp/en/
+  category: Task
+  type: 
+  description: Provides an efficient async/await integration to Unity.
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - async/await
+  - async
+  - Task
+  - UniTask
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
 - packageId: com.unity.collab-proxy@2.2.0
   testable: 0
   isDirectDependency: 1

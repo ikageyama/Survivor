@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\StreamingAssets\\scenario.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\StreamingAssets\\scenario.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|C:\\Users\\vantan\\Documents\\unity\\Survivor\\assets\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\playerdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|C:\\Users\\vantan\\Documents\\unity\\Survivor\\assets\\script\\gmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\gmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|c:\\users\\vantan\\documents\\unity\\survivor\\assets\\script\\scenariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\scenariomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|C:\\Users\\vantan\\Documents\\unity\\Survivor\\assets\\script\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\textmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|c:\\users\\vantan\\documents\\unity\\survivor\\assets\\data\\scenario\\scenarioreadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scenario\\scenarioreadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|C:\\Users\\vantan\\Documents\\unity\\Survivor\\assets\\data\\scenario\\scenariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34467AA8-DCBB-B786-2DE7-70905B7AEE8C}|Assembly-CSharp.csproj|solutionrelative:assets\\data\\scenario\\scenariodata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "scenario.json",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\StreamingAssets\\scenario.json",
+              "RelativeDocumentMoniker": "Assets\\StreamingAssets\\scenario.json",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\StreamingAssets\\scenario.json",
+              "RelativeToolTip": "Assets\\StreamingAssets\\scenario.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-31T07:13:07.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScenarioManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\ScenarioManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\ScenarioManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\ScenarioManager.cs",
+              "RelativeToolTip": "Assets\\Script\\ScenarioManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAYwBoAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T05:32:35.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\TextManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\TextManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\TextManager.cs",
+              "RelativeToolTip": "Assets\\Script\\TextManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAArwBQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:00:49.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\GManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\GManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Script\\GManager.cs",
+              "RelativeToolTip": "Assets\\Script\\GManager.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvwsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:09:52.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerData.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\PlayerData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\PlayerData.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\PlayerData.cs",
+              "RelativeToolTip": "Assets\\Data\\PlayerData.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAUwCkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T06:16:27.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScenarioData.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\Scenario\\ScenarioData.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scenario\\ScenarioData.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\Scenario\\ScenarioData.cs",
+              "RelativeToolTip": "Assets\\Data\\Scenario\\ScenarioData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:15:29.202Z"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "2fc8d7ae-c51f-4912-aa57-75c20f00dee4",
+        "Display": 0,
+        "X": 138,
+        "Y": 187,
+        "Width": 746,
+        "Height": 566,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ScenarioReadManager.cs",
+              "DocumentMoniker": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\Scenario\\ScenarioReadManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Data\\Scenario\\ScenarioReadManager.cs",
+              "ToolTip": "C:\\Users\\vantan\\Documents\\unity\\Survivor\\Assets\\Data\\Scenario\\ScenarioReadManager.cs",
+              "RelativeToolTip": "Assets\\Data\\Scenario\\ScenarioReadManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvxcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-30T23:15:42.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
