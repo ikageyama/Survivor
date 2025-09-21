@@ -7,7 +7,7 @@ using static UnityEngine.UIElements.UxmlAttributeDescription;
 public class ScenarioReadManager : MonoBehaviour
 {
     ScenarioDataArray scenarioDataArray = new();
-    public Dictionary<string, List<string>> scenarioDict = new Dictionary<string, List<string>>();
+    public Dictionary<string, ScenarioData> scenarioDict = new Dictionary<string, ScenarioData>();
 
     void Awake()
     {
@@ -16,12 +16,17 @@ public class ScenarioReadManager : MonoBehaviour
 
     void LoadScenarioJson()
     {
+        /*
         string json = File.ReadAllText(Application.dataPath + "/StreamingAssets/scenario.json");
         scenarioDataArray = JsonUtility.FromJson<ScenarioDataArray>(json);
 
         foreach (var data in scenarioDataArray.scenarioList)
         {
-            scenarioDict[data.scene] = data.messageList;
+            scenarioDict[data.id] = data;
         }
+        //scenarioDict["a"].data[2].message
+        //ScenarioData a = scenarioDict["a"];
+        //a.data[0].message
+        */
     }
 }

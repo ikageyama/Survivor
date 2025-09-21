@@ -1,0 +1,16 @@
+{
+  "itemList": [
+    {
+      "id": "meat",
+      "name": "肉"
+    },
+    {
+      "id": "water",
+      "name": "水"
+    },
+    {
+      "id": "wood",
+      "name": "木"
+    }
+  ]
+}

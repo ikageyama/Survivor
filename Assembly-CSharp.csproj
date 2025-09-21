@@ -59,10 +59,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Data\Scenario\ScenarioData.cs" />
+    <Compile Include="Assets\Data\Item\ItemReadManager.cs" />
+    <Compile Include="Assets\Script\UIManager.cs" />
     <Compile Include="Assets\Data\Scenario\ScenarioReadManager.cs" />
     <Compile Include="Assets\Script\ScenarioManager.cs" />
+    <Compile Include="Assets\Data\Item\ItemData.cs" />
+    <Compile Include="Assets\Script\ItemManager.cs" />
     <Compile Include="Assets\Data\PlayerData.cs" />
     <Compile Include="Assets\Script\TextManager.cs" />
+    <Compile Include="Assets\Script\CaveManager.cs" />
+    <Compile Include="Assets\Script\EventManager.cs" />
     <Compile Include="Assets\Script\GManager.cs" />
   </ItemGroup>
   <ItemGroup>
